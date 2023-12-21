@@ -15,7 +15,7 @@ description = "Local honey and bees for sale"
 favicon = "/images/icons/favicon.png"
 images = [ "/images/190707-001.jpg" ]
 title = "Lochaber Bees and Honey"
-hidedesignbyline = true
+#hidedesignbyline = true
 
 [params.meta]
 keywords = "bees, honey, beekeeping, queens, theapiarist, start beekeeping, blog, workers, drones"
