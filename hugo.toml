@@ -1,0 +1,21 @@
+baseURL = "/"
+disableKinds = [ "section", "taxonomy", "term", "RSS", "robotsTXT" ]
+defaultContentLanguage = "en"
+theme = "hugo-scroll"
+title = "Lochaber Bees and Honey"
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = 'true'
+
+[params]
+copyright = "© David Evans (Lochaber Bees and Honey)<br>Built with [Hugo](https://gohugo.io/) using the [hugo-scroll](https://themes.gohugo.io/hugo-scroll/) template"
+description = "Local honey and bees for sale"
+favicon = "/images/icons/favicon.png"
+images = [ "/images/190707-001.jpg" ]
+title = "Lochaber Bees and Honey"
+hidedesignbyline = true
+
+[params.meta]
+keywords = "bees, honey, beekeeping, queens, theapiarist, start beekeeping, blog, workers, drones"

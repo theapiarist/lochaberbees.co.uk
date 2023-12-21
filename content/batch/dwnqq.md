@@ -1,0 +1,31 @@
+---
+title: "Batch DWNQQ"
+---
+
+Thank you for buying a jar of local Collessie spring honey
+
+![Gorse and broom in the North Fife hills](/images/fife/170604-04.jpg)
+
+My Collessie bees forage over the rich agricultural land on the Howe of Fife and the mixed grazing and scattered woodlands on the south-facing slopes of the rolling North Fife hills. Although they can forage up to three miles from the hive, they usually stay closer to home. 
+
+![Collessie honey foraging area - approximate](/images/fife/CollessieHoney.png)
+
+Spring honey contains nectars from early agricultural crops, like oil seed rape (canola), mixed with whatever is available in the hedgerows and field margins. Depending upon the year it may also contain tree nectars from hawthorn and sycamore. Although the Howe of Fife is largely agricultural land, the North Fife hills are mainly rough grazing with lots of small woods and copses.
+
+The timing and relative proportions of each nectar vary from colony to colony and from year to year, making each batch of honey unique, a delicious snapshot of a particular time and place to be enjoyed with porridge, toast, cheese or ice cream.
+
+Spring honey crystallises very quickly after extraction due to its high glucose content. Without some gentle processing it bends teaspoons (but still tastes delicious). The honey is gently warmed and then mixed over several days to create a smooth, spoonable honey termed 'soft set' or 'creamed' honey. It is particularly good on toast or crumpets. Since this honey is already crystallised its appearance and texture should remain similar until you finish the jar.
+
+![Oil seed rape and the Lomond Hills](/images/fife/160521-26.jpg)
+
+## Batch details
+
+Batch: **DWNQQ**<BR>
+Type: Spring Collessie honey<BR>
+Sold by: Salen Jetty Stores<BR>
+Batch size: 12 jars<BR>
+Weight: 227 g<BR>
+Extracted: June 2022<BR>
+Bucket: 01<BR>
+Jarred: 15-07-23<BR>
+Best by: 15-07-25
