@@ -4,7 +4,7 @@ weight: 40
 header_menu: true
 ---
 
-When I have surplus bees I sell 5 frame nucleus colonies - including overwintered nucs - and queens. Sales are 'collection only' from St Andrews in Fife. I rear all my own queens locally, selected from my best stocks and 'open mated' in May and June (for current year nucs) or in midsummer the previous year (for overwintered nucs). 
+If I have surplus bees I sell 5 frame nucleus colonies - including overwintered nucs - and queens. Sales are 'collection only' from St Andrews in Fife. I rear all my own queens locally, selected from my best stocks and 'open mated' in May and June (for current year nucs) or in midsummer the previous year (for overwintered nucs). 
 
 ![Overwintered 5 frame nuc](images/misc/190422-004.jpg)
 

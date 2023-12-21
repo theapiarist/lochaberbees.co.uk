@@ -3,9 +3,11 @@
   {{- partial "head.html" . -}}
   <body>
     {{- partial "header.html" . -}}
-    <!-- goatcounter added by DJE -->
-    {{- partial "analytics.html" . -}}
     {{- block "main" . }}{{- end }}
+    {{- if .Site.Params.goatcounter }}
+    <!-- goatcounter added by DJE -->
+        {{- partial "analytics.html" . -}}
+    {{- end}}
     {{- partial "footer.html" . -}}
 
     <!-- We do need jQuery to be loaded before HugoScroll script -->
