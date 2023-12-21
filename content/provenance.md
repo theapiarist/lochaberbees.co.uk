@@ -19,4 +19,4 @@ If you have a jar of either my *Collessie* or *St Andrews* honey and want to kno
 
 Batch numbers are case insensitive. 
 
-![The North Fife Hills](/images/fife/180422-011.jpg)
+![The North Fife Hills](images/fife/180422-011.jpg)
