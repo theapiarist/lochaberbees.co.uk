@@ -22,7 +22,7 @@ My west coast heather honey is produced in limited amounts and usually used to m
 
 ![Honey frames](images/misc/180616-017.jpg)
 
-If you have a jar of my honey you can [check its provenance here](/provenance).
+If you have a jar of my honey you can [check its provenance here](https://lochaberbees.co.uk/#provenance).
 
 My honey is usually sold by select cafe’s, farm shops and other artisinal outlets that specialise in high quality local produce. If the following happen to be out of stock ask them to contact me for a restock ... but also make sure you check some of the other delicious local produce they sell.
 
