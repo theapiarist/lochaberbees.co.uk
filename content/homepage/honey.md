@@ -27,7 +27,7 @@ If you have a jar of my honey you can [check its provenance here](https://lochab
 My honey is usually sold by select cafe’s, farm shops and other artisinal outlets that specialise in high quality local produce. If the following happen to be out of stock ask them to contact me for a restock ... but also make sure you check some of the other delicious local produce they sell.
 
 * [Loch Leven's Larder](https://www.lochlevenslarder.com/), Nr. Kinross, Fife
-* Pillars of Hercules, Nr. Falkland, Fife
+* [Pillars of Hercules](https://pillars.co.uk/), Nr. Falkland, Fife
 * [Balgove Larder](https://www.balgove.com/), St Andrews, Fife
 * [Salen Jetty Shop](https://www.salenjettyshop.com/), Salen, Ardnamurchan
 * [Wellsgreen Farm Shop](https://wellsgreenfarm.co.uk/), Windygates, Fife
