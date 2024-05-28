@@ -23,7 +23,7 @@ All high quality honey produced by local beekeepers will contain lots of pollen.
 ## Batch details
 
 Batch: **6M9GJ**<BR>
-Type: Collessie Spring honey<BR>
+Type: St Andrews Spring honey<BR>
 Sold by: Wellsgreen Farm Shop<BR>
 Batch size: 17 jars<BR>
 Weight: 340 g<BR>
