@@ -14,14 +14,6 @@ The bees are local mongrels, not Buckfast, or native blacks, or carniolans, and 
 
 The stocks from which they were raised have low *Varroa* and virus levels, but I make no claims about their being *Varroa* resistant or tolerant (and if others you see being sold come with these claims I'd ask to see the evidence!). Parental stocks are treated in mid-August and early winter to minimise mite levels, and this is usually sufficient for the entire season. 
 
-### Current availability:
-
-As of February 2023
-
-* Overwintered 5 frame nucs - sold out
-* 5 frame nucs - watch this space
-* Queens - watch this space
-
-I do not currently sell native black *Varroa* free bees from the west coast of Scotland.
+I do not sell native black *Varroa* free bees from the west coast of Scotland.
 
 ![Foragers and drones](images/misc/220715-0002.jpg)
