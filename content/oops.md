@@ -7,8 +7,8 @@ Oops ... of the hundreds of billions of *potential* batch numbers, you have ente
 Would you like to have another go ... ?
 
 <DIV>
-<FORM method="post" action="https://localhoney.theapiarist.org/cgi-bin/showBatch.pl" enctype="multipart/form-data">
-<INPUT name="batch" TYPE="text" LENGTH=5 VALUE="" REQUIRED="required" />
+<FORM method="post" action="https://localhoney.theapiarist.org/show" enctype="multipart/form-data">
+<INPUT name="id" TYPE="text" LENGTH=5 VALUE="" REQUIRED="required" />
 <INPUT name="press" TYPE='submit' VALUE='Submit' />
 </FORM>
 </DIV>
